@@ -1,4 +1,4 @@
-Todo Web App Created With Angular Js 1.5 and Node Js Express with MongoDB server.
+#### Todo Web App Created With Angular Js 1.5 and Node Js Express with MongoDB server.
 
 Clone the code.
 
@@ -11,4 +11,4 @@ npm start
 
 ```
 
-Navigate: [http://localhost:3000](http://localhost:3000)
+* Navigate: [http://localhost:3000](http://localhost:3000)
