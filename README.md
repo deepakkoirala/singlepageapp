@@ -1,4 +1,4 @@
-#### Todo Web App Created With Angular Js 1.5 and Node Js Express with MongoDB server.
+#### Todo Web App Created With Angular Js 1 and Node Js Express with MongoDB server.
 
 Clone the code.
 
